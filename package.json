@@ -1,0 +1,27 @@
+{
+  "name": "communication_history4notifiermixinlib",
+  "version": "1.0.0",
+  "description": "AllexJS library with history usage mixins for a Notifier",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/communication-libs/history4notifiermixin.git"
+  },
+  "keywords": [
+    "ecosystem:AllexJS",
+    "communication",
+    "history",
+    "notifier",
+    "mixin",
+    "lib"
+  ],
+  "author": "Andrija Petrovic <andrija.hers@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/communication-libs/history4notifiermixin/issues"
+  },
+  "homepage": "https://github.com/communication-libs/history4notifiermixin#readme"
+}
